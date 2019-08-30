@@ -23,6 +23,7 @@
 		]
 	},
 	"scripts": {
+		"vscode:prepublish": "vue-cli-service build",
 		"test": "node ./test/runTest.js",
 		"serve": "vue-cli-service serve",
 		"build": "vue-cli-service build"

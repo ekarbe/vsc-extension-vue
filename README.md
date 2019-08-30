@@ -19,3 +19,7 @@ Build Vue App
 Start extension debugger
 
 `F5`
+
+Or build the extension and install it
+
+`vsce package`
